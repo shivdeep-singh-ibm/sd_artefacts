@@ -3,8 +3,6 @@
 
 Use simple pico.css like css.
 
-To use your CSS file via the **jsDelivr CDN**, convert your GitHub URL into the standard jsDelivr format using the structure below.
-
 ### 1. jsDelivr CDN Links
 
 * **Latest Version (recommended):**
